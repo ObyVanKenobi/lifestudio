@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lifestudio</string>
+    <string name="empty">empty</string>
+    <string name="phone">Phone: </string>
+    <string name="www">Web site: </string>
+    <string name="map">Map: </string>
+</resources>
